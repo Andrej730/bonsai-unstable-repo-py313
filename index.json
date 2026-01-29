@@ -46,7 +46,7 @@
       "python_versions": [
         "3.11"
       ],
-      "archive_url": "./bonsai_py311-0.8.5-alpha260129-linux-x64.zip",
+      "archive_url": "https://github.com/Andrej730/bonsai-unstable-repo-py313/releases/download/py313-test/bonsai_py311-0.8.5-alpha260129-linux-x64.zip",
       "archive_size": 138626642,
       "archive_hash": "sha256:6c2d3502f1f1c7a1a2534f7fdd82230895c3171af40f9906798446946ff5fbf9"
     },
@@ -94,7 +94,7 @@
       "python_versions": [
         "3.11"
       ],
-      "archive_url": "./bonsai_py311-0.8.5-alpha260129-windows-x64.zip",
+      "archive_url": "https://github.com/Andrej730/bonsai-unstable-repo-py313/releases/download/py313-test/bonsai_py311-0.8.5-alpha260129-windows-x64.zip",
       "archive_size": 108543192,
       "archive_hash": "sha256:40f956c20f4a9787336bd9605530880f60feb7a8079728cb2a207eaf487ef239"
     },
@@ -142,7 +142,7 @@
       "python_versions": [
         "3.13"
       ],
-      "archive_url": "./bonsai_py313-0.8.5-alpha260129-linux-x64.zip",
+      "archive_url": "https://github.com/Andrej730/bonsai-unstable-repo-py313/releases/download/py313-test/bonsai_py313-0.8.5-alpha260129-linux-x64.zip",
       "archive_size": 138121302,
       "archive_hash": "sha256:78ffe76c326da4c3f406ccc738a488fa2afb6b507ec3adfbe2b0f906e8011b3b"
     },
@@ -190,7 +190,7 @@
       "python_versions": [
         "3.13"
       ],
-      "archive_url": "./bonsai_py313-0.8.5-alpha260129-windows-x64.zip",
+      "archive_url": "https://github.com/Andrej730/bonsai-unstable-repo-py313/releases/download/py313-test/bonsai_py313-0.8.5-alpha260129-windows-x64.zip",
       "archive_size": 108318776,
       "archive_hash": "sha256:9d634730a56492fc20602b394f0f015940318517a9702b9717c6589f38b1e4fd"
     }
